@@ -1,12 +1,33 @@
-# React + Vite
+# M♾️1 | Digital Web5 Domination Protocol 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Reality is optional. We build beyond it.**  
+This repository contains the front-end for the M♾️1 ecosystem — a futuristic Web5 interface that spans AI, DAO, Neural Tech, and Universal Expansion.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Vision
 
-## Expanding the ESLint configuration
+> "Мы не просто строим технологии — мы переписываем правила существования."  
+> – MagistrTheOne, Chief Reality Architect
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛰 Features
+
+- 🌐 **Global & Universal Presence** – from Dubai to Andromeda
+- 🧬 **Web5 Infrastructure** – decentralized identity & infinite LLMs
+- 🛸 **AI Agent Call Protocols** – voice-activated, self-aware agents
+- 💸 **Investment Layer** – absurd ROI with satirical precision
+- 🧱 **Modular Components** – built with React + Tailwind + Lucide
+- 🔭 **Post-Reality UI/UX** – glassmorphism, gradients, and galactic glow
+
+---
+
+## 📦 Stack
+
+- **React** + **Vite** — ultra-fast development
+- **TailwindCSS** — styling from another dimension
+- **Lucide React Icons** — futuristic iconography
+- **Framer Motion** *(optional)* — animate the impossible
+- **Three.js / R3F** *(optional)* — for rendering interplanetary UIs
+
