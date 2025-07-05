@@ -31,3 +31,8 @@ This repository contains the front-end for the M♾️1 ecosystem — a futurist
 - **Framer Motion** *(optional)* — animate the impossible
 - **Three.js / R3F** *(optional)* — for rendering interplanetary UIs
 
+# M∞1 | Control Over Everything
+> This repository powers the omnipotent infrastructure for transcendent-level acquisitions.  
+> ⚠️ Warning: Returns may result in reality distortion.
+
+Built with: React, Tailwind, Lucide, your willpower, and AI co-piloting on warp-speed.
